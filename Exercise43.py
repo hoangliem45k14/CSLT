@@ -1,4 +1,4 @@
-MenhGia=int(input('Moi nhap menh gia to tien:'))
+MenhGia=int(input('Moi nhap menh gia so tien:'))
 if MenhGia==1:
     Ten='George Washington'
 elif MenhGia==2:
